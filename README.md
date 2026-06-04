@@ -7,7 +7,9 @@ FinAssist AI is a Generative AI-powered Financial Advisor Chatbot built using Go
 The application follows production-grade AI engineering practices including modular architecture, secure API key management, prompt engineering, logging, exception handling, conversation memory, and token optimization.
 
 ---
+Live Deployment link : https://huggingface.co/spaces/SowmyaKona/finassist-ai
 
+---
 # 🚀 Features
 
 ### Financial Education
